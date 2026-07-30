@@ -1,5 +1,5 @@
 
-# 🧑‍🏫 Plataforma de Mentoria
+# 🧑‍🏫 PyMentor - Plataforma de Mentoria
 
 Este projeto foi desenvolvido durante a **13ª edição da Pystack Week**, promovida pela plataforma **Pythonando**.
 
